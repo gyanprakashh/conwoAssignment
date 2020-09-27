@@ -1,0 +1,47 @@
+.form{
+  border: 10px solid #726a95 ;
+  border-radius:10px;
+  padding-bottom:50px;
+
+}
+.App{
+
+  padding-top:60px;
+  margin-left:180px;
+  margin-right:220px;
+
+}
+.h1
+{
+  color:#726a95;
+  text-align:center;
+  font-size:50px;
+  
+}
+.div{
+  color:#726a95;
+  font-size:30px;
+  margin-left:260px;
+  font-weight:600;
+}
+.button{
+  color:#fff;
+  background-color: #726a95;
+  height:40px;
+  width:160px;
+  border-radius:7px;
+  font-weight:bolder;
+  
+
+}
+.button2{
+  text-align:center;
+  font-weight:bolder;
+}
+.input{
+  margin-left:7px;
+  height:30px;
+  width:400px;
+  border:1px solid #726a95;
+  border-radius: 7px;
+}
